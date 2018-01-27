@@ -8,7 +8,6 @@
 #define TRUE 1
 #define ERROR 0
 #define OK 1
-
 typedef int ElemType;	//定义的数据元素的类型,之所以设置为ElemType是考虑到可扩展行的原因,如果想把数据元素的类型修改成其他的话,只需要在这里修改一次据好了,比较方便
 typedef int Status;
 /*
